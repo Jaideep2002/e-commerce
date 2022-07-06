@@ -1,0 +1,23 @@
+ CREATE TABLE Sales(id int(10) NOT NULL AUTO_INCREMENT,    
+ Order_ID varchar(50),    
+ Order_Date DATE,
+ Ship_Date DATE,
+ Customer_ID int(10),
+ Product_ID varchar(50),
+ Category varchar(50),
+ Product_Name varchar(50),
+ Sales DECIMAL(10,2),
+ Quantity int(5),
+ Price DECIMAL(10,2),
+ PRIMARY KEY (id ),
+ FOREIGN KEY (Customer_ID) REFERENCES Customers(id) ON DELETE CASCADE
+);
+
+ CREATE TABLE Customers(id int(10) NOT NULL AUTO_INCREMENT,    
+ Customer_ID varchar(50),    
+ Customer_Name varchar(50),
+ City varchar(50),
+ State varchar(50),
+ Country varchar(20),
+ PRIMARY KEY (id )
+);
