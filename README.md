@@ -20,8 +20,19 @@ Zuccedd is a Laravel E commerce Web application using CSS([CSS](https://develope
 <a name="screenshots"></a>
 ## Screenshots
 
-()
+![Picture1](https://user-images.githubusercontent.com/92148220/177944075-a7e2e97a-90c2-4840-9bc3-2a43721f8657.png)
 
+![Picture5](https://user-images.githubusercontent.com/92148220/177946507-42f4e1af-1143-4340-b0ac-da035bca1189.png)
+
+
+![Picture6](https://user-images.githubusercontent.com/92148220/177946643-f9015d65-4396-4872-8ae4-9b094527f678.png)
+
+![Picture2](https://user-images.githubusercontent.com/92148220/177945796-f5ebe08c-f86a-4257-90f2-e4bfae30b90a.png)
+
+![Picture3](https://user-images.githubusercontent.com/92148220/177945809-34579eed-1f07-4862-aaff-a3024e689369.png)
+
+
+![Picture4](https://user-images.githubusercontent.com/92148220/177945864-e9515d09-34a9-4ab1-952a-756f76b6f396.png)
 <a name="requirements"></a>
 ## Requirements
 
